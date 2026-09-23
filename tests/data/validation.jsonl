@@ -1,0 +1,32 @@
+{"context": "Route the faulty cog: it rattles. Desk?", "options": ["sales", "support", "parts"], "label": 2}
+{"context": "Pick the badge: gold falcon.", "options": ["jade heron", "jade koala", "coral lynx", "gold falcon"], "label": 3}
+{"context": "Classify: It weighs about two kilos.", "options": ["positive", "negative", "neutral"], "label": 2}
+{"context": "Route the faulty cog: it rattles. Desk?", "options": ["support", "sales", "parts"], "label": 2}
+{"context": "Classify: Great value, works well.", "options": ["positive", "negative", "neutral"], "label": 0}
+{"context": "Pick the badge: crimson dolphin.", "options": ["crimson dolphin", "green dolphin", "green gecko", "jade koala"], "label": 0}
+{"context": "Route the faulty lever: it rattles. Desk?", "options": ["parts", "returns", "sales"], "label": 2}
+{"context": "Route the faulty gizmo: it wobbles. Desk?", "options": ["sales", "support", "parts"], "label": 1}
+{"context": "Route the faulty spring: it squeaks. Desk?", "options": ["returns", "support", "sales"], "label": 0}
+{"context": "Pick the badge: indigo lynx.", "options": ["indigo lynx", "bronze gecko", "gold koala", "crimson lynx"], "label": 0}
+{"context": "Pick the badge: amber heron.", "options": ["crimson badger", "gold dolphin", "amber falcon", "amber heron"], "label": 3}
+{"context": "Route the faulty sprocket: it overheats. Desk?", "options": ["sales", "support", "parts"], "label": 2}
+{"context": "What causes thunder?", "options": ["Thunder follows lightning as heated air expands.", "Tides rise and fall with the pull of the moon.", "Frost forms when dew freezes on cold surfaces.", "Rain falls when vapour cools and condenses into droplets."], "label": 0}
+{"context": "When does frost form?", "options": ["Frost forms when dew freezes on cold surfaces.", "Thunder follows lightning as heated air expands.", "Tides rise and fall with the pull of the moon.", "An echo returns when sound reflects off a hard wall."], "label": 0}
+{"context": "Route the faulty sprocket: it squeaks. Desk?", "options": ["returns", "sales", "parts"], "label": 2}
+{"context": "When does frost form?", "options": ["A compass needle points north along magnetic lines.", "Tides rise and fall with the pull of the moon.", "Thunder follows lightning as heated air expands.", "Frost forms when dew freezes on cold surfaces."], "label": 3}
+{"context": "Classify: Fast delivery and friendly help.", "options": ["positive", "negative", "neutral"], "label": 0}
+{"context": "Pick the badge: azure falcon.", "options": ["azure falcon", "gold ibis", "crimson badger", "crimson heron"], "label": 0}
+{"context": "What pulls the tides?", "options": ["Frost forms when dew freezes on cold surfaces.", "Tides rise and fall with the pull of the moon.", "Thunder follows lightning as heated air expands.", "An echo returns when sound reflects off a hard wall."], "label": 1}
+{"context": "What causes an echo?", "options": ["Tides rise and fall with the pull of the moon.", "Rain falls when vapour cools and condenses into droplets.", "Thunder follows lightning as heated air expands.", "An echo returns when sound reflects off a hard wall."], "label": 3}
+{"context": "Pick the badge: green badger.", "options": ["amber dolphin", "green badger", "coral badger", "ochre dolphin"], "label": 1}
+{"context": "Where does a compass point?", "options": ["A compass needle points north along magnetic lines.", "Rain falls when vapour cools and condenses into droplets.", "An echo returns when sound reflects off a hard wall.", "Tides rise and fall with the pull of the moon."], "label": 0}
+{"context": "Pick the badge: azure dolphin.", "options": ["azure dolphin", "crimson badger", "crimson gecko", "bronze falcon"], "label": 0}
+{"context": "Route the faulty spring: it sticks. Desk?", "options": ["sales", "returns", "parts"], "label": 1}
+{"context": "Route the faulty cog: it wobbles. Desk?", "options": ["returns", "sales", "parts"], "label": 2}
+{"context": "Route the faulty cog: it rattles. Desk?", "options": ["parts", "support", "sales"], "label": 0}
+{"context": "Route the faulty cog: it jams. Desk?", "options": ["parts", "support", "sales"], "label": 0}
+{"context": "Classify: Great value, works well.", "options": ["positive", "negative", "neutral"], "label": 0}
+{"context": "Pick the badge: coral falcon.", "options": ["green crane", "indigo jackal", "indigo gecko", "coral falcon"], "label": 3}
+{"context": "What causes an echo?", "options": ["A compass needle points north along magnetic lines.", "Tides rise and fall with the pull of the moon.", "Frost forms when dew freezes on cold surfaces.", "An echo returns when sound reflects off a hard wall."], "label": 3}
+{"context": "Route the faulty sprocket: it sticks. Desk?", "options": ["parts", "sales", "support"], "label": 0}
+{"context": "Route the faulty sprocket: it rattles. Desk?", "options": ["parts", "support", "returns"], "label": 0}

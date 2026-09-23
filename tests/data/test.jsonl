@@ -1,0 +1,32 @@
+{"context": "Pick the badge: amber crane.", "options": ["azure falcon", "azure koala", "amber crane", "green ibis"], "label": 2}
+{"context": "Where does a compass point?", "options": ["Tides rise and fall with the pull of the moon.", "An echo returns when sound reflects off a hard wall.", "A compass needle points north along magnetic lines.", "Frost forms when dew freezes on cold surfaces."], "label": 2}
+{"context": "Pick the badge: ochre badger.", "options": ["coral badger", "ochre badger", "ochre lynx", "green badger"], "label": 1}
+{"context": "Classify: It broke on day one.", "options": ["positive", "negative", "neutral"], "label": 1}
+{"context": "Route the faulty spring: it wobbles. Desk?", "options": ["parts", "sales", "returns"], "label": 2}
+{"context": "Route the faulty widget: it sticks. Desk?", "options": ["parts", "support", "sales"], "label": 1}
+{"context": "Pick the badge: indigo falcon.", "options": ["crimson lynx", "bronze falcon", "indigo falcon", "coral dolphin"], "label": 2}
+{"context": "Pick the badge: ochre jackal.", "options": ["ochre jackal", "jade koala", "bronze lynx", "gold dolphin"], "label": 0}
+{"context": "When does frost form?", "options": ["An echo returns when sound reflects off a hard wall.", "Frost forms when dew freezes on cold surfaces.", "Tides rise and fall with the pull of the moon.", "Thunder follows lightning as heated air expands."], "label": 1}
+{"context": "What pulls the tides?", "options": ["A compass needle points north along magnetic lines.", "Tides rise and fall with the pull of the moon.", "An echo returns when sound reflects off a hard wall.", "Frost forms when dew freezes on cold surfaces."], "label": 1}
+{"context": "What pulls the tides?", "options": ["Rain falls when vapour cools and condenses into droplets.", "Tides rise and fall with the pull of the moon.", "Frost forms when dew freezes on cold surfaces.", "Thunder follows lightning as heated air expands."], "label": 1}
+{"context": "Where does a compass point?", "options": ["Thunder follows lightning as heated air expands.", "Tides rise and fall with the pull of the moon.", "A compass needle points north along magnetic lines.", "Frost forms when dew freezes on cold surfaces."], "label": 2}
+{"context": "When does frost form?", "options": ["A compass needle points north along magnetic lines.", "Rain falls when vapour cools and condenses into droplets.", "Frost forms when dew freezes on cold surfaces.", "Thunder follows lightning as heated air expands."], "label": 2}
+{"context": "Classify: Slow reply and rude service.", "options": ["positive", "negative", "neutral"], "label": 1}
+{"context": "What causes an echo?", "options": ["Rain falls when vapour cools and condenses into droplets.", "An echo returns when sound reflects off a hard wall.", "A compass needle points north along magnetic lines.", "Tides rise and fall with the pull of the moon."], "label": 1}
+{"context": "What causes thunder?", "options": ["Tides rise and fall with the pull of the moon.", "Frost forms when dew freezes on cold surfaces.", "A compass needle points north along magnetic lines.", "Thunder follows lightning as heated air expands."], "label": 3}
+{"context": "What pulls the tides?", "options": ["An echo returns when sound reflects off a hard wall.", "Tides rise and fall with the pull of the moon.", "A compass needle points north along magnetic lines.", "Thunder follows lightning as heated air expands."], "label": 1}
+{"context": "Pick the badge: indigo dolphin.", "options": ["ochre badger", "azure badger", "indigo dolphin", "azure heron"], "label": 2}
+{"context": "Classify: Fast delivery and friendly help.", "options": ["positive", "negative", "neutral"], "label": 0}
+{"context": "Route the faulty sprocket: it wobbles. Desk?", "options": ["support", "parts", "sales"], "label": 1}
+{"context": "Route the faulty widget: it rattles. Desk?", "options": ["support", "returns", "sales"], "label": 0}
+{"context": "Classify: The manual has twelve pages.", "options": ["positive", "negative", "neutral"], "label": 2}
+{"context": "Pick the badge: green badger.", "options": ["amber gecko", "indigo crane", "coral crane", "green badger"], "label": 3}
+{"context": "What makes rain fall?", "options": ["Rain falls when vapour cools and condenses into droplets.", "Tides rise and fall with the pull of the moon.", "A compass needle points north along magnetic lines.", "Thunder follows lightning as heated air expands."], "label": 0}
+{"context": "Pick the badge: amber jackal.", "options": ["amber jackal", "crimson koala", "coral jackal", "crimson crane"], "label": 0}
+{"context": "Classify: The manual has twelve pages.", "options": ["positive", "negative", "neutral"], "label": 2}
+{"context": "Pick the badge: bronze ibis.", "options": ["bronze badger", "bronze ibis", "azure gecko", "gold badger"], "label": 1}
+{"context": "Where does a compass point?", "options": ["Tides rise and fall with the pull of the moon.", "Frost forms when dew freezes on cold surfaces.", "An echo returns when sound reflects off a hard wall.", "A compass needle points north along magnetic lines."], "label": 3}
+{"context": "Pick the badge: jade koala.", "options": ["ochre badger", "jade koala", "ochre falcon", "azure badger"], "label": 1}
+{"context": "Pick the badge: coral heron.", "options": ["coral heron", "gold dolphin", "ochre koala", "coral gecko"], "label": 0}
+{"context": "What pulls the tides?", "options": ["A compass needle points north along magnetic lines.", "An echo returns when sound reflects off a hard wall.", "Tides rise and fall with the pull of the moon.", "Thunder follows lightning as heated air expands."], "label": 2}
+{"context": "Classify: Great value, works well.", "options": ["positive", "negative", "neutral"], "label": 0}

@@ -1,0 +1,24 @@
+{"context": "to leave behind completely", "options": ["abandon", "dazzle", "hammock", "lantern", "paddle", "thunder"], "label": 0}
+{"context": "a guiding light signal", "options": ["ember", "ivory", "meadow", "quarry", "umbrella", "beacon"], "label": 5}
+{"context": "a spiny desert plant", "options": ["jungle", "nectar", "river", "valley", "cactus", "flask"], "label": 4}
+{"context": "to blind with bright light", "options": ["opal", "saddle", "window", "dazzle", "glacier", "kettle"], "label": 3}
+{"context": "a glowing coal fragment", "options": ["thunder", "yarn", "ember", "hammock", "lantern", "paddle"], "label": 2}
+{"context": "a narrow-necked bottle", "options": ["abandon", "flask", "ivory", "meadow", "quarry", "umbrella"], "label": 1}
+{"context": "a slow river of ice", "options": ["glacier", "jungle", "nectar", "river", "valley", "beacon"], "label": 0}
+{"context": "a hanging cloth bed", "options": ["kettle", "opal", "saddle", "window", "cactus", "hammock"], "label": 5}
+{"context": "pale hard tusk material", "options": ["paddle", "thunder", "yarn", "dazzle", "ivory", "lantern"], "label": 4}
+{"context": "dense tropical forest", "options": ["umbrella", "abandon", "ember", "jungle", "meadow", "quarry"], "label": 3}
+{"context": "a pot for boiling water", "options": ["beacon", "flask", "kettle", "nectar", "river", "valley"], "label": 2}
+{"context": "a portable cased lamp", "options": ["glacier", "lantern", "opal", "saddle", "window", "cactus"], "label": 1}
+{"context": "a grassy field", "options": ["meadow", "paddle", "thunder", "yarn", "dazzle", "hammock"], "label": 0}
+{"context": "sweet flower juice", "options": ["quarry", "umbrella", "abandon", "ember", "ivory", "nectar"], "label": 5}
+{"context": "a milky gemstone", "options": ["valley", "beacon", "flask", "jungle", "opal", "river"], "label": 4}
+{"context": "a short oar", "options": ["cactus", "glacier", "kettle", "paddle", "saddle", "window"], "label": 3}
+{"context": "a stone pit", "options": ["hammock", "lantern", "quarry", "thunder", "yarn", "dazzle"], "label": 2}
+{"context": "a natural water stream", "options": ["meadow", "river", "umbrella", "abandon", "ember", "ivory"], "label": 1}
+{"context": "a rider seat", "options": ["saddle", "valley", "beacon", "flask", "jungle", "nectar"], "label": 0}
+{"context": "the sound after lightning", "options": ["window", "cactus", "glacier", "kettle", "opal", "thunder"], "label": 5}
+{"context": "a rain canopy", "options": ["dazzle", "hammock", "lantern", "paddle", "umbrella", "yarn"], "label": 4}
+{"context": "low land between hills", "options": ["ivory", "meadow", "quarry", "valley", "abandon", "ember"], "label": 3}
+{"context": "a wall glass opening", "options": ["nectar", "river", "window", "beacon", "flask", "jungle"], "label": 2}
+{"context": "spun thread", "options": ["saddle", "yarn", "cactus", "glacier", "kettle", "opal"], "label": 1}

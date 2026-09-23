@@ -1,35 +1,24 @@
-CC ?= cc
-CFLAGS ?= -O2 -std=c11 -Wall -Wextra -Wpedantic
-# musl-compatible, no glibc-only, plain POSIX + libm. No SIMD yet.
-LDLIBS = -lm
-
-SRC = sjev.c model.c token.c math.c data.c train.c
-OBJ = $(SRC:.c=.o)
-BIN = sjev
-
-PREFIX ?= /usr/local
-BINDIR ?= $(PREFIX)/bin
-
-all: $(BIN)
-
-$(BIN): $(OBJ)
-	$(CC) $(CFLAGS) -o $@ $^ $(LDLIBS)
-
-%.o: %.c
-	$(CC) $(CFLAGS) -c -o $@ $<
-
-# sanitiser build for parity / dev
-asan: CFLAGS += -fsanitize=address,undefined -g -O1 -fno-omit-frame-pointer
-asan: clean $(BIN)
+# SJEV top-level build driver. The real build lives in src/.
+all:
+	$(MAKE) -C src all
 
 clean:
-	rm -f $(OBJ) $(BIN)
+	$(MAKE) -C src clean
 
-install: $(BIN)
-	install -Dm755 $(BIN) $(DESTDIR)$(BINDIR)/$(BIN)
+install:
+	$(MAKE) -C src install
 
-# simple test: requires Python to export a model first
-check: $(BIN)
-	@echo "run src/tests/test_parity.py after exporting a model"
+asan:
+	$(MAKE) -C src asan
 
-.PHONY: all clean install asan check
+ubsan:
+	$(MAKE) -C src ubsan
+
+tsan:
+	$(MAKE) -C src tsan
+
+# Full functional suite (builds first, then runs tests/run_tests.sh).
+check:
+	$(MAKE) -C src check
+
+.PHONY: all clean install asan ubsan tsan check
