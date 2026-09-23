@@ -68,6 +68,17 @@ AdamW step; weights are read-only in workers. See THREADING.md.
 ./src/sjev predict MODEL.sjev --context "Choose the exact badge amber badger." --option "azure crane" --option "amber badger" --option "gold heron"
 Output JSON [{option, probability, logit}], probs sum to one. Inference time on stderr.
 
+## Pretrained models
+Published models live under `models/`, each with a `model.json` recording
+dimensions, training command, seed, dataset hashes, metrics and licence
+(see `models/README.md` for the publication rule). Try the synthetic model
+with no training required:
+./src/sjev predict models/synthetic/sjev-w64-r64-c192-o32-seed7.sjev \
+    --context "Pick the badge: gold heron." \
+    --option "azure crane" \
+    --option "gold heron" \
+    --option "bronze ibis"
+
 ## Evaluate
 ./src/sjev eval MODEL.sjev TEST.jsonl
 Prints test_nll, top1, top3, ece, example count, timing as JSON.

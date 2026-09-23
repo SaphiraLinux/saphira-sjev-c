@@ -6,5 +6,5 @@ test_ece	0.008817
 shuffled_top1	0.298000
 shuffled_top3	0.870000
 shuffled_nll	6.406142
-model_size_bytes	165888
+model_size_bytes	165152
 train_wall_s	2.69

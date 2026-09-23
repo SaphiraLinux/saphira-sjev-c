@@ -9,7 +9,7 @@
   "model": {
     "width": 64, "rank": 64, "context_tokens": 192, "option_tokens": 32,
     "epochs": 8, "batch_size": 64, "seed": 7, "threads": 8,
-    "size_bytes": 165888,
+    "size_bytes": 165152,
     "sha256": "32f537208b08a9d76b753907025822a0c29c62d25db5f4b37f08bd160d4f641a",
     "command": "./src/sjev train <train> --validation <val> --output model.sjev --width 64 --rank 64 --context-tokens 192 --option-tokens 32 --epochs 8 --batch-size 64 --seed 7 --threads 8"
   },
