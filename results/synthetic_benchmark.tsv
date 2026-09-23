@@ -1,0 +1,10 @@
+metric	value
+test_top1	0.992000
+test_top3	1.000000
+test_nll	0.014848
+test_ece	0.008817
+shuffled_top1	0.298000
+shuffled_top3	0.870000
+shuffled_nll	6.406142
+model_size_bytes	165888
+train_wall_s	2.69

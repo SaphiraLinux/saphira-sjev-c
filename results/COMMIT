@@ -1,0 +1,4 @@
+Results generated from code commit 5a7203d (5a7203d77a1699a8fd78fa14df50f089805e3390)
+on branch multithreaded, 2026-09-23T22:46:49Z.
+Rerun recipe: make clean && make && make check, then the commands in
+results/README.md summaries.
