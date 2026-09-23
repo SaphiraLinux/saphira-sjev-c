@@ -1,3 +1,13 @@
+/*
+ * data.c — SJEV JSONL dataset loading.
+ * Copyright (C) 2026 Andrew Smalley for and on behalf of AKADATA LIMITED.
+ * https://www.akadata.co.uk
+ *
+ * Licensed under the Business Source License 1.1 — see LICENSE.
+ * Part of Saphira Linux (https://saphira.vm2.uk).
+ * Developed for SHAMPOO, the Shared Human-Agent-Model Platform for
+ * Orchestration and Operations (https://shampoo.op2.uk/).
+ */
 #define _POSIX_C_SOURCE 200809L
 #include "data.h"
 #include <stdio.h>
